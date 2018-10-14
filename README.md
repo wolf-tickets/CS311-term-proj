@@ -25,4 +25,4 @@ on the same project).
 
 2. DSL to construct VST (digital audio processing/generation plugins) easily and quickly (currently must be done laboriously in C++).
 
-3. Blazon TODO
+3. Implement (a possibly modified subset of) blazonry, the traditional DSL for describing a Heraldic coat of arms, in the hope that pattern-match-parsing and an abstract syntax close to the concrete syntax will help resolve ambiguities.
